@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/app-react-login.git/static/css/main.2c1360cf.css",
-    "main.js": "/app-react-login.git/static/js/main.498d8dfe.js",
-    "static/js/453.98bc3d2b.chunk.js": "/app-react-login.git/static/js/453.98bc3d2b.chunk.js",
-    "index.html": "/app-react-login.git/index.html",
-    "main.2c1360cf.css.map": "/app-react-login.git/static/css/main.2c1360cf.css.map",
-    "main.498d8dfe.js.map": "/app-react-login.git/static/js/main.498d8dfe.js.map",
-    "453.98bc3d2b.chunk.js.map": "/app-react-login.git/static/js/453.98bc3d2b.chunk.js.map"
+    "main.css": "/app-react-login/static/css/main.2c1360cf.css",
+    "main.js": "/app-react-login/static/js/main.fec82542.js",
+    "static/js/453.98bc3d2b.chunk.js": "/app-react-login/static/js/453.98bc3d2b.chunk.js",
+    "index.html": "/app-react-login/index.html",
+    "main.2c1360cf.css.map": "/app-react-login/static/css/main.2c1360cf.css.map",
+    "main.fec82542.js.map": "/app-react-login/static/js/main.fec82542.js.map",
+    "453.98bc3d2b.chunk.js.map": "/app-react-login/static/js/453.98bc3d2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c1360cf.css",
-    "static/js/main.498d8dfe.js"
+    "static/js/main.fec82542.js"
   ]
 }
